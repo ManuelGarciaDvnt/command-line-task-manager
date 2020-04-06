@@ -1,0 +1,12 @@
+=========== TABLA DEL a ===========
+0) a * 0 = NaN
+1) a * 1 = NaN
+2) a * 2 = NaN
+3) a * 3 = NaN
+4) a * 4 = NaN
+5) a * 5 = NaN
+6) a * 6 = NaN
+7) a * 7 = NaN
+8) a * 8 = NaN
+9) a * 9 = NaN
+10) a * 10 = NaN
